@@ -1,0 +1,9 @@
+# Logs / Журналы
+*.log
+
+# Local settings / Локальные настройки
+.env
+
+# System files / Системные файлы
+.DS_Store
+Thumbs.db
