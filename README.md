@@ -1,8 +1,5 @@
-\# Git Calculator / Git-калькулятор
+Git Calculator / Git-калькулятор
 
-
-
-\## English
 
 
 
@@ -58,7 +55,7 @@ Hello, GitHub! Multiplication is available.
 
 
 
-\### Git workflow
+Git workflow
 
 
 
@@ -66,7 +63,7 @@ Created the `feature-1`, `feature-2` and `hotfix` branches, merged two pull requ
 
 
 
-\## Русский
+Русский
 
 
 
