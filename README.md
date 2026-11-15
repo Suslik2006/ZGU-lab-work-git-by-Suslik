@@ -7,7 +7,7 @@ A simple JavaScript calculator created for Lab #2 to practise Git and GitHub.
 
 
 
-\### Features
+Features
 
 
 
@@ -17,7 +17,7 @@ A simple JavaScript calculator created for Lab #2 to practise Git and GitHub.
 
 
 
-\### Download and run
+Download and run
 
 
 
@@ -71,7 +71,7 @@ Created the `feature-1`, `feature-2` and `hotfix` branches, merged two pull requ
 
 
 
-\### Основные функции
+Основные функции
 
 
 
@@ -81,7 +81,7 @@ Created the `feature-1`, `feature-2` and `hotfix` branches, merged two pull requ
 
 
 
-\### Скачивание и запуск
+Скачивание и запуск
 
 
 
@@ -97,7 +97,7 @@ Created the `feature-1`, `feature-2` and `hotfix` branches, merged two pull requ
 
 
 
-\### Работа с Git
+Работа с Git
 
 
 
@@ -105,7 +105,7 @@ Created the `feature-1`, `feature-2` and `hotfix` branches, merged two pull requ
 
 
 
-\## Release / Релиз
+Release / Релиз
 
 
 
